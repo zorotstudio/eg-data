@@ -1,0 +1,336 @@
+{
+  "Topics": {
+    "hack-nao-1500-tu-tieng-anh": {
+      "imageLink": "https://blog.vu-review.com/wp-content/uploads/2019/05/hack-nao-1500-tu-tieng-anh.jpg",
+      "name": "Hack não 1500 từ tiếng anh",
+      "lessonIds": "hack-nao-1500-tu-tieng-anh-lesson1"
+    }
+  },
+  "Lessons": {
+    "hack-nao-1500-tu-tieng-anh-lesson1": {
+      "name": "Comunication1",
+      "imageLink": "https://raw.githubusercontent.com/zorotstudio/eg-data/master/images/hack-nao-1500-tu-tieng-anh/caster.png",
+      "vocabularies": "Additional",
+      "qaes": null,
+      "expressions": null
+    },
+    "": {
+      "name": null,
+      "imageLink": null,
+      "vocabularies": "Whole",
+      "qaes": null,
+      "expressions": null
+    }
+  },
+  "Expressions": {
+    "It's often said that ...": {
+      "meaning": "Người ta thường nói rằng ...",
+      "example": "It's often said that ..."
+    },
+    "Many people claim [kleim] that ...": {
+      "meaning": "Rất nhiều người nói rằng ...",
+      "example": "Many people claim [kleim] that ..."
+    },
+    "In this day and age.../Nowadays.../These days...": {
+      "meaning": "Ngày nay ...",
+      "example": "In this day and age.../Nowadays.../These days..."
+    },
+    "We live in an age when many of us are ...": {
+      "meaning": "Chúng ta đang sống trong một thời đại mà rất nhiều ...",
+      "example": "We live in an age when many of us are ..."
+    },
+    "... is a hotly-debated topic that often divices opinion.": {
+      "meaning": "... là một vấn đề sôi nổi và có nhiều ý kiến trái chiều",
+      "example": "... is a hotly-debated topic that often divices opinion."
+    },
+    "... is often discussed yet rarely understood": {
+      "meaning": "... thường được bàn luận nhưng hiếm khi được hiểu",
+      "example": "... is often discussed yet rarely understood"
+    },
+    "The following essay takes a lot of both sides of the argument.": {
+      "meaning": "Bài luận sau sẽ nhìn nhận cả hai mặt của vẫn đề",
+      "example": "The following essay takes a lot of both sides of the argument."
+    },
+    "I'd like to point out right at the beginning that ...": {
+      "meaning": "Tôi muốn chỉ rõ ngay từ đầu là ...",
+      "example": "I'd like to point out right at the beginning that ..."
+    },
+    "Just at the beginning, I would go as far as to say that": {
+      "meaning": "Để mở đầu, tôi muốn nói là ...",
+      "example": "Just at the beginning, I would go as far as to say that"
+    },
+    "We clearly remember that...": {
+      "meaning": "Chúng tôi nhớ rõ là...",
+      "example": "We clearly remember that..."
+    },
+    "Today, we'll be talking a closer look at...": {
+      "meaning": "Hôm nay chúng ta sẽ bàn luận sâu hơn về ...",
+      "example": "Today, we'll be talking a closer look at..."
+    },
+    "Let's talk briefly about....": {
+      "meaning": "Hãy nói ngắn gọn về ...",
+      "example": "Let's talk briefly about...."
+    }
+  },
+  "QAes": {
+    "It's often said that ...": {
+      "answers": "In this day and age.../Nowadays.../These days..."
+    },
+    "": {
+      "answers": "The following essay takes a lot of both sides of the argument."
+    },
+    "Many people claim [kleim] that ...": {
+      "answers": "... is often discussed yet rarely understood"
+    }
+  },
+  "Vocabularies": {
+    "Additional": {
+      "wordType": "adverb",
+      "pronunciation": "/əˈdɪʃ.ən.əl/",
+      "meaning": "A đíc-sừn-nơ-ry bản bổ xung mới ra nè",
+      "imageLink": "https://img.etimg.com/thumb/msid-63294656,width-300,imgsize-38265,resizemode-4/invest-complex-gettyimages.jpg",
+      "copyright": "Google",
+      "example": "Your application still needs additional infomation"
+    },
+    "Admit": {
+      "wordType": "verb",
+      "pronunciation": "/ədˈmɪt/",
+      "meaning": "Ăn mít không hết thì thừa nhận đi",
+      "imageLink": "https://files.brightside.me/files/news/part_21/214705/preview-7639610-1200x630-99-1479292315.jpg",
+      "copyright": "Google",
+      "example": "He never admits when he make mistake"
+    },
+    "Agree": {
+      "wordType": "verb",
+      "pronunciation": "/əˈɡriː/",
+      "meaning": "Ơ con gà ri đi ăn mừng được đồng ý xuất chuồng kìa",
+      "imageLink": "https://efc.edu.vn/wp-content/uploads/2017/10/agree.jpg",
+      "copyright": "Google",
+      "example": "We can still work together if we don't agree"
+    },
+    "Announce": {
+      "wordType": "verb",
+      "pronunciation": "/əˈnaʊns/",
+      "meaning": "Đi ăn nào, có thông báo nghỉ trưa rồi",
+      "imageLink": "https://image.shutterstock.com/z/stock-vector-group-of-audience-people-listen-to-speaker-announce-in-speech-bubble-58397218.jpg",
+      "copyright": "Google",
+      "example": "I will announce the news tomorrow"
+    },
+    "Apologize": {
+      "wordType": "verb",
+      "pronunciation": "/əˈpɑː.lə.dʒaɪz/",
+      "meaning": "Cho mình xin lỗi nhé, vừa ăn thịt bò mà nó dai quá nên rụng hết răng",
+      "imageLink": "https://s3.amazonaws.com/media.eremedia.com/uploads/2016/03/07152358/shutterstock_370948460-700x467.jpg",
+      "copyright": "Google",
+      "example": "There is no need to apologize"
+    },
+    "Approve": {
+      "wordType": "verb",
+      "pronunciation": "/əˈpruːv/",
+      "meaning": "Ờ, ba rủ về quê và cả nhà đều tán thành",
+      "imageLink": "http://www.travelweek.ca/wp-content/uploads/2015/11/11.02_news_TravelBrands-creditors-approve-plan.jpg",
+      "copyright": "Google",
+      "example": "My boss approve the contract"
+    },
+    "Argue": {
+      "wordType": "verb",
+      "pronunciation": "/ˈɑːrɡ.juː/",
+      "meaning": "Ông suốt ngày chỉ biết ăn ngủ, tranh luận với ai được",
+      "imageLink": "https://az616578.vo.msecnd.net/files/2016/07/29/636054286261125900-2043032298_arguing.jpg",
+      "copyright": "Google",
+      "example": "I rarely argue with my brother"
+    },
+    "Blame": {
+      "wordType": "verb",
+      "pronunciation": "/bleɪm/",
+      "meaning": "Bà lém thế sao sếp khiển trách được. Có khi lại được khen thưởng cũng nên",
+      "imageLink": "https://www.incimages.com/uploaded_files/image/970x450/getty_507748676_200013352000928053_341440.jpg",
+      "copyright": "Google",
+      "example": "Jack always blames others for his mistake"
+    },
+    "Brief": {
+      "wordType": "verb",
+      "pronunciation": "/briːf/",
+      "meaning": "Ríp tóm tắt câu truyện trong 3 nốt nhạc",
+      "imageLink": "http://www.lukaspitra.cz/wp-content/uploads/checklist_feature.jpg",
+      "copyright": "Google",
+      "example": "The president was briefed on the situation"
+    },
+    "Brochure": {
+      "wordType": "noun",
+      "pronunciation": "/broʊˈʃʊr/",
+      "meaning": "Bộ râu giả của sư phụ ở trong cuốn sách nhỏ",
+      "imageLink": "https://static3.uprinting.com/photo-gallery/110003/UP_Brochures_Main_Image[1]_450x450.jpg",
+      "copyright": "Google",
+      "example": "Take a look at our travel brochure"
+    },
+    "Certain": {
+      "wordType": "adverb",
+      "pronunciation": "/ˈsɝː.tən/",
+      "meaning": "Biết chắc là mình sai, anh ta sợ từng li từng tí",
+      "imageLink": "https://img.cache.vevo.com/thumb/cms/b7dc69ffcf994f8328f240997019979a201629820514929.jpg",
+      "copyright": "Google",
+      "example": "I'm not certain about that"
+    },
+    "Comma": {
+      "wordType": "noun",
+      "pronunciation": "/ˈkɑː.mə/",
+      "meaning": "Con mà đặt giấu phẩy ở đây thì câu này sai hoàn toàn đấy nhé",
+      "imageLink": "https://thethesiswhisperer.files.wordpress.com/2018/01/screen-shot-2018-01-08-at-10-46-11-am.png",
+      "copyright": "Google",
+      "example": "Use a comma when you are writing lists"
+    },
+    "Complaint": {
+      "wordType": "noun",
+      "pronunciation": "/kəmˈpleɪnt/",
+      "meaning": "Ngày nào mấy con ma còn lên đây là còn mấy lời phàn nàn của ông ta",
+      "imageLink": "https://marketingweek.imgix.net/content/uploads/2016/02/15000148/Customersatisfaction.jpg",
+      "copyright": "Google",
+      "example": "I don't want to hear one more complaint from you"
+    },
+    "Complete": {
+      "wordType": "verb",
+      "pronunciation": "/kəmˈpliːt/",
+      "meaning": "Bữa cơm hôm nay không được hoàn tất vì cơm hết giữa chừng",
+      "imageLink": "https://3.bp.blogspot.com/-t7gP_fRJ69w/Wph7NmigtFI/AAAAAAACYYk/zP70uRk2yIMhF98fBu3hbnA69Q4zSwqgQCLcBGAs/s320/site%2Bupgrade%2Bcomplete.jpg",
+      "copyright": "Google",
+      "example": "Have you complete your homework"
+    },
+    "Conference": {
+      "wordType": "noun",
+      "pronunciation": "/ˈkɑːn.fɚ.əns/",
+      "meaning": "Hội nghị APEC lần này có cả cơm phở phục vụ dần trong bữa tiệc",
+      "imageLink": "http://blackbird.marketing/wp-content/uploads/2018/02/featured-1024x546-1024x585.jpg",
+      "copyright": "Google",
+      "example": "There is a big conference next week"
+    },
+    "Confirm": {
+      "wordType": "verb",
+      "pronunciation": "/kənˈfɝːm/",
+      "meaning": "Việc đầu tiên trước khi xem phim là xác nhận xem còn phim không",
+      "imageLink": "https://www.woculus.com/wp-content/uploads/2016/02/meeting-1020145_640.jpg",
+      "copyright": "Google",
+      "example": "I can't confirm the date now"
+    },
+    "Contact": {
+      "wordType": "verb",
+      "pronunciation": "/ˈkɑːn.tækt/",
+      "meaning": "Me dặn, đi công tác nhớ liên lạc về nhé con",
+      "imageLink": "http://sps.ieeemy.org/wp-content/uploads/2018/04/contact-us-1.png",
+      "copyright": "Google",
+      "example": "Contact me when you arrive"
+    },
+    "Convince": {
+      "wordType": "verb",
+      "pronunciation": "/kənˈvɪns/",
+      "meaning": "Con vịt thuyết phục con cá lên bờ chơi với nó",
+      "imageLink": "http://www.personalitytutor.com/files/2012/05/How-to-Convince-Others.jpg",
+      "copyright": "Google",
+      "example": "You can't convince me otherwise"
+    },
+    "Discuss": {
+      "wordType": "verb",
+      "pronunciation": "/dɪˈskʌs/",
+      "meaning": "Mọi người thảo luận cách đi cứu Sơn",
+      "imageLink": "https://previews.123rf.com/images/abluecup/abluecup1209/abluecup120901669/15430687-discuss-debate-several-people-are-discussed.jpg",
+      "copyright": "Google",
+      "example": "We will discuss this later"
+    },
+    "Extreme": {
+      "wordType": "adverb",
+      "pronunciation": "/ɪkˈstriːm/",
+      "meaning": "Ếch chê mèo yêu vô cùng",
+      "imageLink": "https://s.hswstatic.com/gif/extreme-motor-sports-orig.jpg",
+      "copyright": "Google",
+      "example": "There is no need for extreme anger"
+    },
+    "Hint": {
+      "wordType": "noun",
+      "pronunciation": "/hɪnt/",
+      "meaning": "Lời gợi ý đằng sau bức hình, và bạn phải tìm ra nó",
+      "imageLink": "https://pbs.twimg.com/profile_images/768283357293649920/fOL3v271_400x400.jpg",
+      "copyright": "Google",
+      "example": "These hints may identify the killer"
+    },
+    "Hurry": {
+      "wordType": "verb",
+      "pronunciation": "/ˈhɝː.i/",
+      "meaning": "Dừng giục tớ nữa, tớ đang hơ con chim ri, nó bị ướt hết người rồi",
+      "imageLink": "https://1.bp.blogspot.com/-d8N1DJk1kCY/VtBRBaoIAVI/AAAAAAAAhFg/GkMAesru-Bk/s1600/rushed.jpg",
+      "copyright": "Google",
+      "example": "Hurry or you will miss the bus"
+    },
+    "Include": {
+      "wordType": "verb",
+      "pronunciation": "/ɪnˈkluːd/",
+      "meaning": "Công việc của bin bao gồm cả in cái lu ra giấy",
+      "imageLink": "https://www.digopaul.com/wp-content/uploads/related_images/2015/09/08/include_3.jpg",
+      "copyright": "Google",
+      "example": "Is dinner included with this package?"
+    },
+    "Interact": {
+      "wordType": "verb",
+      "pronunciation": "/ˌɪn.t̬ɚˈækt/",
+      "meaning": "Đi in tờ giấy về cách phân loại rác để dễ dàng xử lý là một cách kêu gọi người dùng tương tác với nhau",
+      "imageLink": "http://blog.creative-tim.com/wp-content/uploads/2015/11/6a00e54ee3905b883301b8d0d56577970-730x410.jpg",
+      "copyright": "Google",
+      "example": "My cats don't like to interact"
+    },
+    "Need": {
+      "wordType": "verb",
+      "pronunciation": "/niːd/",
+      "meaning": "Nhu cầu của con nít là có thật nhiều đồ chơi",
+      "imageLink": "http://laoblogger.com/images/giving-money-to-homeless-clipart-4.jpg",
+      "copyright": "Google",
+      "example": "I need to get some sleep"
+    },
+    "Order": {
+      "wordType": "verb",
+      "pronunciation": "/ˈɔːr.dɚ/",
+      "meaning": "ơ kìa, sao lại đơ người ra vậy, gọi món đi",
+      "imageLink": "https://cdn-images-1.medium.com/max/2000/1*e5XFcJqb57LkJc58TOV4sw.png",
+      "copyright": "Google",
+      "example": "I'm going to order a pizza tonight"
+    },
+    "Postcard": {
+      "wordType": "noun",
+      "pronunciation": "/ˈpoʊst.kɑːrd/",
+      "meaning": "Uống nước cho bớt khát rồi đi tặng bưu thiếp",
+      "imageLink": "https://www.nerdmarketing.com/wp-content/uploads/2017/04/32-postcards-chat-app-COVER.jpg",
+      "copyright": "Google",
+      "example": "The postcard never arrived"
+    },
+    "Prepare": {
+      "wordType": "verb",
+      "pronunciation": "/prɪˈper/",
+      "meaning": "trước khi đi xa, phải đi xe, cần chuẩn bị kỹ lưỡng",
+      "imageLink": "https://giasutoeic.com/static/Vocabulary/images/word_images/prepare.jpg",
+      "copyright": "Google",
+      "example": "I still need to prepare my lesson plan"
+    },
+    "Reason": {
+      "wordType": "noun",
+      "pronunciation": "/ˈriː.zən/",
+      "meaning": "Cán bộ đưa ra lý do di dân thật là lực cười",
+      "imageLink": "https://seanwes.com/wp-content/uploads/2016/02/242-sp-find-your-why.png",
+      "copyright": "Google",
+      "example": "I have no reason to be upset, but I am"
+    },
+    "Stamp": {
+      "wordType": "noun",
+      "pronunciation": "/stæmp/",
+      "meaning": "Nhân viên sợ con tem lấm lem, sếp sẽ phạt",
+      "imageLink": "https://upload.wikimedia.org/wikipedia/commons/6/6f/US_Airmail_inverted_Jenny_24c_1918_issue.jpg",
+      "copyright": "Google",
+      "example": "He collects old stamp"
+    },
+    "Whole": {
+      "wordType": "noun",
+      "pronunciation": "/hoʊl/",
+      "meaning": "Chính quyền hô hào toàn bộ người dân vùng lũ sơ tán",
+      "imageLink": "http://2.bp.blogspot.com/--15mAuCM7FA/UYdc-_jWOoI/AAAAAAAACHw/Igi7b_gRaDk/s1600/whole+language+ingles-free.jpg",
+      "copyright": "Google",
+      "example": "He ate the strawberry whole"
+    }
+  }
+}
